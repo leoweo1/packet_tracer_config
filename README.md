@@ -16,6 +16,7 @@ This lab demonstrates basic Cisco router configuration including device setup, p
 - Network Troubleshooting
 
 ## Project Structure
+```
 
 /
 ├── Lab_3_Router_Config.pkt
@@ -25,7 +26,7 @@ This lab demonstrates basic Cisco router configuration including device setup, p
 │   ├── show_run_manassas.png
 │   └── show_run_fairfax.png
 └── README.md
-
+```
 ## Network Topology
 
 Manassas Router (192.168.1.1/30) -- Serial Connection -- Fairfax Router (192.168.1.2/30)
@@ -119,7 +120,4 @@ show version
 - Configuration includes both running and startup config saves
 
 ---
-**Lab Status**: Completed Successfully ✅
-```
-
-You can now copy and paste this entire text directly into your `README.md` file on GitHub. The formatting uses standard GitHub Markdown syntax and will display properly on your repository.
+**Lab Status**: Completed Successfully 
